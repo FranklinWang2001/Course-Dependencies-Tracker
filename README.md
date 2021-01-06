@@ -2,7 +2,7 @@
 This application provides a simple method for planning out courses and finding prerequisite courses.
 ---
 ## Demo video:
-[![Course Dependencies Tracker](http://img.youtube.com/vi/IWTYKYgFkmg&feature=youtu.be/0.jpg)](https://www.youtube.com/watch?v=IWTYKYgFkmg&feature=youtu.be)
+[!Course Dependencies Tracker](http://img.youtube.com/vi/IWTYKYgFkmg/0.jpg)](https://www.youtube.com/watch?v=IWTYKYgFkmg&feature=youtu.be)
 ## To run this application:
 1. Clone this repository. (git clone <this-repo>)
 2. Run _make test_ in command line to make sure the application is working correctly.
