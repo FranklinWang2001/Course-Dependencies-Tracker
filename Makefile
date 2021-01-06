@@ -13,7 +13,7 @@ compile:
 	javac MajorMaker.java
 	javac MapADT.java
 
-test:
+test: compile
 	javac -cp .:junit5.jar PrimTest.java
 	javac -cp .:junit5.jar testBackend.java
 	javac -cp .:junit5.jar testGraph.java
