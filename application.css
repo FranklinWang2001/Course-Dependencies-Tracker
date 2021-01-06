@@ -1,0 +1,29 @@
+/* --== CS400 File Header Information ==--
+// Name: Otto Leffel
+// Email: oleffel@wisc.edu
+// Team: IG
+// Role: Front End Developer 2
+// TA: Mu Cai
+// Lecturer: Gary Dahl
+// Notes to Grader: <optional extra notes>*/
+
+/* JavaFX CSS - Leave this comment until you have at least create one rule which uses -fx-Property */
+
+.button {
+    -fx-background-color: lavenderblush;
+}
+.tab-pane .tab-header-area .tab-header-background {
+    -fx-background-color: darkolivegreen;
+}
+.tab-pane {
+    -fx-background-color: darkslategrey;
+}
+.gridpane {
+    -fx-background-color: crimson;
+}
+.label {
+    -fx-text-fill: lavenderblush;
+}
+.menu {
+    -fx-background-color: darkslategrey;
+}
